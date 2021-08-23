@@ -30,7 +30,7 @@ Interested in donating a machine or becoming a mentor?
 
 Reach out at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
-All donations are tracked (and can be anonymized / hashed on request) - you will see exactly where your money went. We'll put up a section for this on our website soon.
+All donations are tracked (and can be anonymized / hashed on request) - you will see exactly where your money went. We'll put up a donation analytics section on this website soon.
 
 ## FAQ
 
