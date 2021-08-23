@@ -1,8 +1,14 @@
-## Pre-pre-pre seed investing in Filipino tech talent 
+## Pre-pre-pre seed investing* in Filipino tech talent 
 
 We provide free laptops, mentorship and a community for underprivileged but passionate Filipinos who want to code or build.
 
 Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
+
+### Investing? So are you expecting monetary returns?
+
+**NO**. We dont expect any monetary returns from this "investing". We get something way better than money in return, advancing the Philippine tech scene and building a community of like-minded individuals. It's more of a donation. We just like the term "investing".
+
+We wouldn't mind if beneficiaries reach out to us in the future though to fund their startups. :)
 
 ## Our belief
 
@@ -26,6 +32,8 @@ Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmai
 
 ## Want to help out?
 
-Interested in donating a machine or becoming a mentor?
+Interested in donating a machine or becoming a mentor? 
 
 Reach out at [devseedph@gmail.com](mailto:devseedph@gmail.com)
+
+All donations are tracked (and can be anonymized) - you will see exactly where your money went. We'll put up a section for this on our website soon.
