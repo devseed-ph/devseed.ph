@@ -8,7 +8,7 @@ Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmai
 
 **NO**. 
 
-While devseed.ph wont have any monetary returns at this time, we get something way better: advancing the Philippine tech scene, building a community of like-minded individuals and increasing access to opportunities for all. 
+While devseed.ph wont have any monetary returns (everything we provide is free), we get something way better: advancing the Philippine tech scene, building a community of like-minded individuals and increasing access to opportunities for all. 
 
 We wouldn't mind if beneficiaries reach out to us in the future though to fund their startups. :)
 
