@@ -1,4 +1,4 @@
-## TLDR
+## What we do
 
 We provide free laptops, mentorship and community for underprivileged but passionate Filipinos who want to code or build.
 
