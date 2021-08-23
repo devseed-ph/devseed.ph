@@ -1,8 +1,8 @@
-## devseed.ph
+## TLDR
 
 We provide free laptops, mentorship and community for underprivileged but passionate Filipinos who want to code or build.
 
-Sounds like you? Send us an email at devseedph@gmail.com
+Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
 ## Our belief
 
@@ -14,10 +14,10 @@ There are no limits. The only entrance fee is a machine and an internet connecti
 
 We are angel investors in people. We are angel investors in **you**. We'll give you the first two things to catch the craziest wave of our generation. All we ask for is a fervent desire to learn and to better one's place in the world.
 
-Sounds like you? Send us an email at devseedph@gmail.com
+Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
-### Investors
+## Want to help out?
 
 Interested in donating a machine or becoming a mentor?
 
-Reach out at devseedph@gmail.com
+Reach out at [devseedph@gmail.com](mailto:devseedph@gmail.com)
