@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## devseed.ph
 
-You can use the [editor on GitHub](https://github.com/devseed-ph/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We provide free laptops, mentorship and community for underprivileged but passionate Filipinos who want to code or build.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sounds like you? Send us an email at devseedph@gmail.com
 
-### Markdown
+## Our belief
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technology is the great equalizer of our generation. In today's knowledge economy, those who can learn, build, and sell online can not only earn a living but make a **good life** purely by using the products of their minds. Opportunities abound to change one's life no matter where you come from or what wealth or assets your family possesses.
 
-```markdown
-Syntax highlighted code block
+It's all about where you want to go, who you want to be, and what you can actually **do**. In today's remote world, borders are meaningless. You can work from anywhere for any company in the world. The number of technology jobs and gigs only goes **up**.  
 
-# Header 1
-## Header 2
-### Header 3
+There are no limits. The only entrance fee is a machine and an internet connection. 
 
-- Bulleted
-- List
+We are angel investors in people. We are angel investors in **you**. We'll give you the first two things to catch the craziest wave of our generation. All we ask for is a fervent desire to learn and to better one's place in the world.
 
-1. Numbered
-2. List
+Sounds like you? Send us an email at devseedph@gmail.com
 
-**Bold** and _Italic_ and `Code` text
+### Investors
 
-[Link](url) and ![Image](src)
-```
+Interested in donating a machine or becoming a mentor?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devseed-ph/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach out at devseedph@gmail.com
