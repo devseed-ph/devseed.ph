@@ -6,7 +6,9 @@ Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmai
 
 ### Investing? So are you expecting monetary returns?
 
-**NO**. We dont expect any monetary returns from this "investing". We get something way better than money in return, advancing the Philippine tech scene and building a community of like-minded individuals. It's more of a donation. We just like the term "investing".
+**NO**. 
+
+While devseed.ph wont have any monetary returns at this time, we get something way better: advancing the Philippine tech scene, building a community of like-minded individuals and increasing access to opportunities for all. 
 
 We wouldn't mind if beneficiaries reach out to us in the future though to fund their startups. :)
 
