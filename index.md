@@ -22,7 +22,7 @@ Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmai
 
 * a reliable developer machine 
 * a Discord community of passionate people like you
-* mentorship from accomplished professionals
+* mentorship from accomplished tech professionals
 
 ## Want to help out?
 
