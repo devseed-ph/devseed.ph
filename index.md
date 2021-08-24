@@ -42,9 +42,13 @@ We work with univerisities and organizations to collect a pipeline of candidates
 
 Our vision is to give equal opportunity to anyone regardless of academic or organizational affiliation. We are in the process of creating an online application form for this. 
 
-### Would a beneficiary need to pay anything?
+### Do beneficiaries need to pay for anything? Will they owe anything?
 
-**No**. Everything we provide is for free, beneficiaries will not need to pay anything back. Though we would love it if beneficiaries reach out to us in the future to be angel investors in their startups. :)
+**No**. Everything we provide is for free, beneficiaries will not need to pay for anything or owe anything. 
+
+If they find success, it would be great if they donate a machine and become a mentor to keep this positive cycle going, but this is not a requirement. 
+
+Also, we would love it if beneficiaries build their own startups. They can always reach out to us for angel investments. :)
 
 ### How do you cover your costs?
 
