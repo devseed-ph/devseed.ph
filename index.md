@@ -44,7 +44,7 @@ Our vision is to give equal opportunity to anyone regardless of academic or orga
 
 ### Would a beneficiary need to pay anything?
 
-**No**. Everything we provide is for free, beneficiaries will not need to pay anything back. Though we would love it if beneficiaries reach out to us in the future to fund their startups. :)
+**No**. Everything we provide is for free, beneficiaries will not need to pay anything back. Though we would love it if beneficiaries reach out to us in the future to be angel investors in their startups. :)
 
 ### How do you cover your costs?
 
