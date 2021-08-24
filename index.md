@@ -26,7 +26,7 @@ Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmai
 
 ## Want to help out?
 
-Interested in donating a machine or becoming a mentor? 
+Interested in donating a machine, becoming a mentor or providing opportunities for beneficiaries? 
 
 Reach out at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
