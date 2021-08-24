@@ -48,7 +48,7 @@ Our vision is to give equal opportunity to anyone regardless of academic or orga
 
 ### How do you cover your costs?
 
-Currently through donations but we are talking with partners to make us sustainable so we can provide a steady flow of laptops.
+Currently through donations but we are talking with partners to make us sustainable so we can provide a steady flow of laptops and other means to better support beneficiaries.
 
 ### What kind of support can beneficiaries expect?
 
