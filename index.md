@@ -40,7 +40,7 @@ We pick individuals based on their passion for coding or building (no-code build
 
 We work with univerisities and organizations to collect a pipeline of candidates.
 
-Our vision is to give equal opportunity to anyone regardless of academic or organizational affiliation. We in the process of creating an online application form for this. 
+Our vision is to give equal opportunity to anyone regardless of academic or organizational affiliation. We are in the process of creating an online application form for this. 
 
 ### Would a beneficiary need to pay anything?
 
