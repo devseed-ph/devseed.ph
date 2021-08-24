@@ -14,7 +14,7 @@ It's all about where you want to go, who you want to be, and what you can actual
 
 In today's remote world, borders are meaningless. You can work from anywhere for any company in the world. The number of technology jobs and gigs only goes **up**. [McKinsey estimates](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages) 20-50 million new technology-related jobs will be created by 2030. 
 
-There are no limits. The only entrance fee is a machine and an internet connection. We'll give you the surfboard you need to catch the craziest wave of our generation. All we ask for is a fervent desire to learn and to better your place in the world.
+There are no limits. The only barrier to entry is a machine and an internet connection and we'll help you break it. We'll give you the surfboard to catch the craziest wave of our generation. All we ask for is a fervent desire to learn and to better your place in the world.
 
 Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
