@@ -10,7 +10,8 @@ header .logo {
   content: url("../images/devseed_logo.png");
   width: 208px;
   height: 60px;
-  max-width: none;
+  max-width: 100%;
+  object-fit: cover;
 }
 header h1:before {
   content: "";
