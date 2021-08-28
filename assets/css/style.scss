@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 footer {
-    padding-top: 50px;
-    text-align: center;
+  padding-top: 50px;
+  text-align: center;
+}
+header .logo {
+  content: url("../images/devseed_logo.png");
+  width: 208px;
+  height: 60px;
+}
+header h1:before {
+  content: "";
 }
