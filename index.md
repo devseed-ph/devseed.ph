@@ -60,3 +60,5 @@ Currently through donations but we are talking with partners to make us sustaina
 * an eager audience to get feedback on things they build
 * form friendships with other beneficiaries - hungry and passionate people working together are a force to be reckoned with!
 * access to gig/job opportunities after they graduate through our mentors' networks
+
+:)
