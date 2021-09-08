@@ -1,6 +1,6 @@
 ## Seed packages for underprivileged Filipino tech talent 
 
-We are a social enterprise that provides free laptops, mentorship and a community for underprivileged but passionate Filipinos who want to code or build. 
+We are a not-for-profit that provides free laptops, mentorship and a community for underprivileged but passionate Filipinos who want to code or build. 
 
 Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
