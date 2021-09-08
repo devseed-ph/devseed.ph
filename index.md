@@ -60,4 +60,4 @@ Currently through donations but we are talking with partners to make us sustaina
 * guidance, career advice, and an eager audience willing to offer feedback on cool things people are working on 
 * like-minded individuals - hungry and passionate people working together are a force to be reckoned with!
 * access to gigs/internships/job opportunities through our mentors' networks
-* extended support packages depending on the individual's circumstance
+* extended support packages depending on the individual's circumstances
