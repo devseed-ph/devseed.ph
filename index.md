@@ -36,9 +36,9 @@ All donations are tracked (and can be anonymized / hashed on request) - you will
 
 ### How do you select beneficiaries?
 
-We pick individuals based on their passion for coding or building (no-code builders are welcome!) and financial need.
+We pick individuals based on their passion for coding or building (no-code builders are welcome!),determination, talent, and financial need.
 
-We work with universities and organizations to collect a pipeline of candidates.
+We work with universities and organizations to collect a pipeline of candidates but will happily accept direct applications. 
 
 Our vision is to give equal opportunity to anyone regardless of academic or organizational affiliation. We are in the process of creating an online application form for this. 
 
