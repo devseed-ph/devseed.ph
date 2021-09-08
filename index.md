@@ -56,7 +56,8 @@ Currently through donations but we are talking with partners to make us sustaina
 
 ### What kind of support can beneficiaries expect?
 
-* online mentorship + career advice from mentors in our Discord channel
-* an eager audience to get feedback on things they build
-* form friendships with other beneficiaries - hungry and passionate people working together are a force to be reckoned with!
-* access to gig/job opportunities after they graduate through our mentors' networks
+* access to a supportive community of mentors and fellow beneficiaries 
+* guidance, career advice, and an eager audience willing to offer feedback on cool things people are working on 
+* like-minded individuals - hungry and passionate people working together are a force to be reckoned with!
+* access to gigs/internships/job opportunities through our mentors' networks
+* extended support packages depending on the individual's circumstance
