@@ -64,4 +64,4 @@ Currently through donations but we are talking with partners to make us sustaina
 
 ### Contact us
 
-If you have any questions or would like to get in touch, come say hi at[devseedph@gmail.com](mailto:devseedph@gmail.com)
+If you have any questions or would like to get in touch, come say hi at [devseedph@gmail.com](mailto:devseedph@gmail.com)
