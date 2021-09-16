@@ -16,7 +16,7 @@ In today's remote world, borders are meaningless. You can work from anywhere for
 
 There are no limits. The only barrier to entry is a machine and an internet connection and we'll help you break through. We'll give you a surfboard to catch the craziest wave of our generation. All we ask for is a fervent desire to learn and to better your place in the world.
 
-Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
+Sounds like you? Fill out this [application form](https://docs.google.com/forms/d/e/1FAIpQLSdYjFX2RiA2XcKwW0jZXEjOH5EYghQscqAkVjZzgQKviNiZwQ/viewform) and we'll get in touch. 
 
 ## What we provide
 
@@ -30,7 +30,7 @@ Interested in donating a machine, becoming a mentor or providing opportunities f
 
 Reach out at [devseedph@gmail.com](mailto:devseedph@gmail.com)
 
-All donations are tracked (and can be anonymized / hashed on request) - you will see exactly where your money went. We'll put up a donation analytics section on this website soon.
+All donations are tracked (and can be anonymized / hashed on request) - you will see exactly where your money went. We'll put up a donation analytics section on this website soon so you can trace your impact.
 
 ## FAQ
 
