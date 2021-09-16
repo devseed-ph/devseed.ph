@@ -2,7 +2,7 @@
 
 We are a not-for-profit that provides free laptops, mentorship and a community for underprivileged but passionate Filipinos who want to code or build. 
 
-Sounds like you? Send us an email at [devseedph@gmail.com](mailto:devseedph@gmail.com)
+Sounds like you? Fill out this [application form](https://docs.google.com/forms/d/e/1FAIpQLSdYjFX2RiA2XcKwW0jZXEjOH5EYghQscqAkVjZzgQKviNiZwQ/viewform) and we'll get in touch. 
 
 ## Our belief
 
@@ -61,3 +61,7 @@ Currently through donations but we are talking with partners to make us sustaina
 * like-minded individuals - hungry and passionate people working together are a force to be reckoned with!
 * access to gigs/internships/job opportunities through our mentors' networks
 * extended support packages depending on the individual's circumstances
+
+### Contact us
+
+If you have any questions or would like to get in touch, come say hi at[devseedph@gmail.com](mailto:devseedph@gmail.com)
